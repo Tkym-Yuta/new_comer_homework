@@ -1,1 +1,4 @@
-
+matrix_calc:行列の計算
+jpg2png:拡張子を変更  
+image_edit:特徴量抽出以外の画像の操作  
+im_extract:特徴量抽出  
